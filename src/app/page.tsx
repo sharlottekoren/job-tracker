@@ -23,8 +23,8 @@ export default function Home() {
       <Button variant="muted">
         Muted
       </Button>
-      <Button variant="teritary">
-        Teritary
+      <Button variant="tertiary">
+        Tertiary
       </Button>
     </div>
   )
